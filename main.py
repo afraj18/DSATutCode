@@ -1,0 +1,2 @@
+count = input()
+value
